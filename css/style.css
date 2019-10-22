@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://s3.envato.com/files/213490998/Hexagons%20Tech%20Background%2001_preview1.JPG")
+}
+
+
+/* #banner{
+   background-image:url("https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+    opacity: .8;
+} */
+
+#head1{
+    font-size:75px;
+    font-weight: bolder;
+}
+#info{
+    background: rgb(86, 164, 236);
+    font-weight: bolder;
+}
+#three{
+    background-image:url("https://img.freepik.com/free-vector/hexagonal-molecular-structures-technology-background_41981-1005.jpg?size=626&ext=jpg")
+}
