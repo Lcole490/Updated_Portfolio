@@ -47,3 +47,20 @@ body{
     opacity: .75 ;
     color: black;
 }
+
+.mainsection2{
+    margin: 0 auto;
+    height: 800px;
+    width: 700px;
+    
+}
+
+.sitecontainer2{
+    background-image:url("https://akovia-yymzkigkbk.netdna-ssl.com/wp-content/uploads/2016/08/Office-desk-background-blue.jpg")
+}
+
+.field{
+    font-weight: bolder;
+    color:white;
+    font-size: 20px;
+}
