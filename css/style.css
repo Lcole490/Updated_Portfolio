@@ -52,7 +52,8 @@ body{
     margin: 0 auto;
     height: 800px;
     width: 700px;
-    
+    display:flex;
+    justify-content: space-between;
 }
 
 .sitecontainer2{
